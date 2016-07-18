@@ -1,6 +1,7 @@
 package CirclePackage;
 // Cylinder.java: Class definition for describing Cylinder
 public class Cylinder extends Circle {
+		
 	private double length = 5.0;
 	
 	/** return length */
