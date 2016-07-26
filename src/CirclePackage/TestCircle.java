@@ -9,7 +9,7 @@ public class TestCircle {
 		+ myCircle.getRadius() + " is " + myCircle.findArea());
 //*************************************************************		
 	Cylinder cyl = new Cylinder();
-	System.out.print("The length is " + cyl.getLength());
+	System.out.print("The length isa dream: " + cyl.getLength());
 	
 	}
 }
